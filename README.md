@@ -27,8 +27,8 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./77.png" alt="logo" width="140"  height="auto" />
-  <br/>
+  <h1>Mohammad Jalal Ahmadi<h1>
+  
 
   <h3><b>Hello Microverse</b></h3>
 
@@ -66,9 +66,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With <a name="built-with"></a>
 
-1- HTML
-2- CSS
-3- Linters
+1- HTML.
+2- CSS.
+3- Linters.
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -125,7 +125,7 @@ Run this command:
 
 sh
   cd my-folder
-  git clone https://github.com/jalal1379
+  git clone https://github.com/jalal1379/set-hello.git
 
 
 ### Install
