@@ -27,10 +27,10 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="Mohammad Jalal Ahmadi" alt="logo" width="140"  height="auto" />
+  <img src="./77.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>SET hello</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -49,7 +49,7 @@ After you're finished please remove all the comments and instructions!
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -60,14 +60,15 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My new project] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-This project created by using HTML and CSS.
+> This is Hello Microverse project! created it by using HTML and CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
-1:HTML.
-2:CSS.
-3:Linters.
+
+1- HTML
+2- CSS
+3- Linters
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -76,21 +77,19 @@ This project created by using HTML and CSS.
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
-    <li><a href="https://reactjs.org/">CSS</a></li>
+    <li><a href="https://html.spec.whatwg.org/multipage//">HTML</a></li>
+    <li><a href="https://www.w3.org/TR/CSS/#css/">CSS</a></li>
   </ul>
 </details>
-
-
-
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- HTML file.
-- CSS file.
+> Describe between 1-3 key features of the application.
 
+- Added index.html file.
+- Added style.css file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,9 +97,7 @@ This project created by using HTML and CSS.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
->comming soon. 
-
-- [Live Demo Link](https://google.com)
+> Coming soon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,48 +113,49 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-1-Web browser.
-2-Code editor.
-3-Git-smc.
+1. Web browser.
+2. Code editor.
+3. Git-smc.
 
 ### Setup
 
+Clone this repository to your desired folder:
 
-Run this commands:
+Run this command:
 
-```sh
+sh
   cd my-folder
-  git clone https://github.com/jalal1379/set-hello.git
-```
+  git clone https://github.com/jalal1379
 
 
 ### Install
 
 Install this project with:
 
-Run this  command:
+Run command:
 
-```sh
+sh
   cd my-project
   npm install
-```
---->
+
 
 ### Usage
 
-Open index.html using live server extention.
+To run the project, execute the following command:
+
+Open index.html using live server extension.
+
+### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
+> Coming soon
 
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+### Deployment
 
+You can deploy this project using:
 
+> Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,13 +163,13 @@ Example command:
 
 ## 👥 Authors <a name="authors"></a>
 
+
+
 👤 Mohammad Jalal Ahmadi
 
 - GitHub: [@githubhandle](https://github.com/jalal1379)
 - Twitter: [@twitterhandle](https://twitter.com/JalalAh78951382)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jalal-ahmadi-58312b270/)
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,18 +178,28 @@ Example command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] Add header.
-- [ ] Add photo.
-- [ ] Add audio.
+
+- [] add header.
+- [] add footer.
+- [] add new styles.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project just start it.
+If you like this project just give it a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,8 +207,7 @@ If you like this project just start it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-I would like to thank from Microverse team.
+I would like to thank Microverse,
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,7 +218,5 @@ I would like to thank from Microverse team.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
