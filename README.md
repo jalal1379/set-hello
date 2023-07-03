@@ -42,36 +42,27 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> This is Hello Microverse project! created it by using HTML and CSS.
+This is Hello Microverse project! I created it by using HTML and CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-1- HTML.
-2- CSS.
-3- Linters.
-
 ### Tech Stack <a name="tech-stack"></a>
-
 
 <details>
   <summary>Client</summary>
@@ -85,26 +76,16 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
+- Add project Title.
+- Add webhint and stylelint to fix common linters errors.
 
 
-- Added index.html file.
-- Added style.css file.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Coming soon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -122,10 +103,10 @@ Clone this repository to your desired folder:
 
 Run this command:
 
-sh
+```sh
   cd my-folder
   git clone https://github.com/jalal1379/set-hello.git
-
+```
 
 ### Install
 
@@ -144,17 +125,6 @@ To run the project, execute the following command:
 
 Open index.html using live server extension.
 
-### Run tests
-
-To run tests, run the following command:
-
-> Coming soon
-
-### Deployment
-
-You can deploy this project using:
-
-> Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,9 +148,9 @@ You can deploy this project using:
 
 
 
-- [] add header.
-- [] add footer.
-- [] add new styles.
+- [ ] add header.
+- [ ] add footer.
+- [ ] add new styles.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,8 +177,6 @@ If you like this project just give it a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse,
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
